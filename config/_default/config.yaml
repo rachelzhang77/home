@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Rachel Zhang # Website name
-baseURL: 'https://rachelzhang77.github.io/' # Website URL
+baseURL: 'https://rachelzhang77.github.io/portfolio' # Website URL
 
 ############################
 ## LANGUAGE
