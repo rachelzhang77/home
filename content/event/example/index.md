@@ -1,44 +1,44 @@
 ---
-title: Example Talk
+title: Examining the Relationship Between Gentrification and Crime in Buffalo from 2011 to 2019
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 2022 ASC Annual Meeting
+event_url: [https://asc41.com/events/2022-asc-annual-meeting/#top](https://asc41.com/events/2022-asc-annual-meeting/#top)
 
-location: Wowchemy HQ
+location: Atlanta, GA
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 265 Peachtree Center Avenue
+  city: Atlanta
+  region: GA
+  postcode: '30303'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Assessing the impacts of gentrification on crime changes in Buffalo.
+abstract: 'The growth of gentrification since the 1990s has significantly changed neighborhood socioeconomic characteristics. Some researchers argued that there is a positive relationship between gentrification and crime, while there are other scholars arguing for the negative association between them. However, much of this research fails to consider gentrification as a process rather than a discrete event. Using longitudinal random intercept models, my research treats gentrification as a dynamic process and examines this association using ACS 5-year estimates from 2011 to 2019 and crime data at the census tract level in Buffalo, NY. The results show a curvilinear relationship between gentrification and crime — in the years leading up to a tract being gentrified, there is, on average, an increase in crime that continues until a short period following this designation, and then, the crime rate begins to decrease.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-11-17T11:00:00Z'
+date_end: '2022-11-17T11:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: ![image](https://user-images.githubusercontent.com/89880594/193428766-aa31a185-4933-44fd-8dfe-134d9e7c9328.png)'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/ASCRM41/
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -49,25 +49,14 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+projects=[]
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
