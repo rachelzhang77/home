@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/rachelzhang77/portfolio'
+    url: 'https://github.com/rachelzhang77/home/'
     content_dir: content
     branch: main
   avatar:
