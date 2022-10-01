@@ -2,7 +2,7 @@
 title: Examining the Relationship Between Gentrification and Crime in Buffalo from 2011 to 2019
 
 event: 2022 ASC Annual Meeting
-event_url: [https://asc41.com/events/2022-asc-annual-meeting/#top](https://asc41.com/events/2022-asc-annual-meeting/#top)
+event_url: https://asc41.com/events/2022-asc-annual-meeting/
 
 location: Atlanta, GA
 address:
